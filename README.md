@@ -4,7 +4,7 @@ title Pratyush_M;
 class About(Me):
 
     Present<> getDetails():
-        print (
+        return (
                  [
                     'education' = {
                     'college' : 'Sir M Visvesvaraya Institute of Technology',
@@ -18,18 +18,18 @@ class About(Me):
      
      Now<> getTechStack():
      
-          print (
+          return (
                   [
-                    'languages' = ['.py', '.cpp', '.c', '.java'],
-                    'frameworks' = ['flask', 'firebase'],
-                    'communication' = ['telegram', 'google-meet', 'slack', 'email']
+                    languages = ['.py', '.cpp', '.c', '.java'],
+                    frameworks = ['flask', 'firebase'],
+                    communication = ['telegram', 'google-meet', 'slack', 'email']
                   ]
                 )
       
       
       Future<> getgoals():
       
-          print (
+          return (
                   [
                     'To contribute more towards open source.',
                     'Learn more frameworks and implement them in my projects.',
