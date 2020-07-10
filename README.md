@@ -1,16 +1,42 @@
-### Hi there 👋
+```python
+title Pratyush_M;
 
-<!--
-**pratyushmp/pratyushmp** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+class About(Me):
 
-Here are some ideas to get you started:
+    Present<> getDetails():
+        print (
+                 [
+                    'education' = {
+                    'college' : 'Sir M Visvesvaraya Institute of Technology',
+                    'year' : '3rd',
+                    'branch' : 'Computer Science Engineering',
+                    'degree' : 'Bachelor of Engineering'
+                  }
+                ]
+              )
+     
+     
+     Now<> getTechStack():
+     
+          print (
+                  [
+                    'languages' = ['.py', '.cpp', '.c', '.java'],
+                    'frameworks' = ['flask', 'firebase'],
+                    'communication' = ['telegram', 'google-meet', 'slack', 'email']
+                  ]
+                )
+      
+      
+      Future<> getgoals():
+      
+          print (
+                  [
+                    'To contribute more towards open source.',
+                    'Learn more frameworks and implement them in my projects.',
+                    'Diving deep into the world of ML.',
+                    'See more green boxes below.'
+                  ]
+                )
+       
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+                  
