@@ -1,4 +1,3 @@
-![](https://komarev.com/ghpvc/?username=pratyushmp)
 ```python
 title Pratyush_M;
 
@@ -38,6 +37,5 @@ class About(Me):
                     'See more green boxes below.'
                   ]
                 )
-       
-
-                  
+```       
+![](https://komarev.com/ghpvc/?username=pratyushmp)     
