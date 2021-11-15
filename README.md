@@ -21,7 +21,7 @@ class About(Me):
           return (
                   [
                     languages = ['.py', '.cpp', '.c', '.java'],
-                    frameworks = ['flask', 'firebase'],
+                    frameworks = ['flask', 'firebase', 'flutter'],
                     communication = ['telegram', 'google-meet', 'slack', 'email']
                   ]
                 )
